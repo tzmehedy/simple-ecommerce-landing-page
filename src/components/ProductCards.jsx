@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from 'react';
+import ProductCard from './ProductCard';
 
 const ProductCards = () => {
     const [products,setProducts] = useState([])
@@ -8,9 +9,8 @@ const ProductCards = () => {
         .then(res=>res.json())
         .then(data=>setProducts(data))
     },[])
-    console.log(products)
     return (
-      <div>
+      <div className="">
         <div className="flex justify-end ">
           <select
             name="sort"
@@ -23,8 +23,10 @@ const ProductCards = () => {
           </select>
         </div>
 
-        <div>
-
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 lg:gap-10 lg:ml-20 mt-3 space-y-3">
+          {products?.map((product) => (
+            <ProductCard key={product.id} product={product}></ProductCard>
+          ))}
         </div>
       </div>
     );

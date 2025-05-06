@@ -1,5 +1,6 @@
 [
   {
+    "id": 1,
     "image": "https://i.ibb.co.com/4nqrp7C0/Rectangle-78.png",
     "title": "Nivea Soft Jar Moisturising Cream",
     "ratings": 4.5,
@@ -7,9 +8,10 @@
     "offer_price": 1250,
     "discount_percent": 25,
     "rating_count": 234,
-    "status": "in stock"
+    "status": "sale"
   },
   {
+    "id": 2,
     "image": "https://i.ibb.co.com/2B1vdrB/Rectangle-76.png",
     "title": "Nivea Soft Jar Moisturising Cream",
     "ratings": 4.7,
@@ -17,9 +19,10 @@
     "offer_price": 1250,
     "discount_percent": 20,
     "rating_count": 158,
-    "status": "in stock"
+    "status": "sale"
   },
   {
+    "id": 3,
     "image": "https://i.ibb.co.com/jZL2q6JL/Rectangle-72.png",
     "title": "Nivea Soft Jar Moisturising Cream",
     "ratings": 4.3,
@@ -27,9 +30,10 @@
     "offer_price": 1250,
     "discount_percent": 20,
     "rating_count": 310,
-    "status": "limited stock"
+    "status": "not sale"
   },
   {
+    "id": 4,
     "image": "https://i.ibb.co.com/C3hGzBYQ/Rectangle-74.png",
     "title": "Nivea Soft Jar Moisturising Cream",
     "ratings": 4.6,
@@ -37,9 +41,10 @@
     "offer_price": 1250,
     "discount_percent": 30,
     "rating_count": 421,
-    "status": "in stock"
+    "status": "not sale"
   },
   {
+    "id": 5,
     "image": "https://i.ibb.co.com/tpwfyYrk/Rectangle-60.png",
     "title": "Nivea Soft Jar Moisturising Cream",
     "ratings": 4.2,
@@ -47,9 +52,10 @@
     "offer_price": 1250,
     "discount_percent": 25,
     "rating_count": 195,
-    "status": "out of stock"
+    "status": "not sale"
   },
   {
+    "id": 6,
     "image": "https://i.ibb.co.com/PvQJgn6g/Rectangle-42.png",
     "title": "Nivea Soft Jar Moisturising Cream",
     "ratings": 4.4,
@@ -57,9 +63,10 @@
     "offer_price": 1250,
     "discount_percent": 20,
     "rating_count": 88,
-    "status": "in stock"
+    "status": "sale"
   },
   {
+    "id": 7,
     "image": "https://i.ibb.co.com/jk0H1mb3/Rectangle-41.png",
     "title": "Nivea Soft Jar Moisturising Cream",
     "ratings": 4.8,
@@ -67,9 +74,10 @@
     "offer_price": 1250,
     "discount_percent": 30,
     "rating_count": 142,
-    "status": "in stock"
+    "status": "sale"
   },
   {
+    "id": 8,
     "image": "https://i.ibb.co.com/jZL2q6JL/Rectangle-72.png",
     "title": "Nivea Soft Jar Moisturising Cream",
     "ratings": 4.5,
@@ -77,9 +85,10 @@
     "offer_price": 1250,
     "discount_percent": 25,
     "rating_count": 301,
-    "status": "limited stock"
+    "status": "not sale"
   },
   {
+    "id": 9,
     "image": "https://i.ibb.co.com/C3hGzBYQ/Rectangle-74.png",
     "title": "Nivea Soft Jar Moisturising Cream",
     "ratings": 4.1,
@@ -87,9 +96,10 @@
     "offer_price": 1250,
     "discount_percent": 20,
     "rating_count": 202,
-    "status": "in stock"
+    "status": "not sale"
   },
   {
+    "id": 10,
     "image": "https://i.ibb.co.com/C3hGzBYQ/Rectangle-74.png",
     "title": "Nivea Soft Jar Moisturising Cream",
     "ratings": 4.0,
@@ -97,9 +107,10 @@
     "offer_price": 1250,
     "discount_percent": 20,
     "rating_count": 163,
-    "status": "in stock"
+    "status": "sale"
   },
   {
+    "id": 11,
     "image": "https://i.ibb.co.com/4nqrp7C0/Rectangle-78.png",
     "title": "Nivea Soft Jar Moisturising Cream",
     "ratings": 4.6,
@@ -107,9 +118,10 @@
     "offer_price": 1250,
     "discount_percent": 25,
     "rating_count": 178,
-    "status": "out of stock"
+    "status": "not sale"
   },
   {
+    "id": 12,
     "image": "https://i.ibb.co.com/2B1vdrB/Rectangle-76.png",
     "title": "Nivea Soft Jar Moisturising Cream",
     "ratings": 4.7,
@@ -117,9 +129,10 @@
     "offer_price": 1250,
     "discount_percent": 20,
     "rating_count": 120,
-    "status": "in stock"
+    "status": "sale"
   },
   {
+    "id": 13,
     "image": "https://i.ibb.co.com/jZL2q6JL/Rectangle-72.png",
     "title": "Nivea Soft Jar Moisturising Cream",
     "ratings": 4.3,
@@ -127,9 +140,10 @@
     "offer_price": 1250,
     "discount_percent": 20,
     "rating_count": 95,
-    "status": "limited stock"
+    "status": "not sale"
   },
   {
+    "id": 14,
     "image": "https://i.ibb.co.com/C3hGzBYQ/Rectangle-74.png",
     "title": "Nivea Soft Jar Moisturising Cream",
     "ratings": 4.2,
@@ -137,9 +151,10 @@
     "offer_price": 1250,
     "discount_percent": 25,
     "rating_count": 217,
-    "status": "in stock"
+    "status": "not sale"
   },
   {
+    "id": 15,
     "image": "https://i.ibb.co.com/tpwfyYrk/Rectangle-60.png",
     "title": "Nivea Soft Jar Moisturising Cream",
     "ratings": 4.4,
@@ -147,9 +162,10 @@
     "offer_price": 1250,
     "discount_percent": 25,
     "rating_count": 289,
-    "status": "in stock"
+    "status": "not sale"
   },
   {
+    "id": 16,
     "image": "https://i.ibb.co.com/PvQJgn6g/Rectangle-42.png",
     "title": "Nivea Soft Jar Moisturising Cream",
     "ratings": 4.5,
@@ -157,9 +173,10 @@
     "offer_price": 1250,
     "discount_percent": 25,
     "rating_count": 164,
-    "status": "in stock"
+    "status": "not sale"
   },
   {
+    "id": 17,
     "image": "https://i.ibb.co.com/jk0H1mb3/Rectangle-41.png",
     "title": "Nivea Soft Jar Moisturising Cream",
     "ratings": 4.1,
@@ -167,9 +184,10 @@
     "offer_price": 1250,
     "discount_percent": 20,
     "rating_count": 132,
-    "status": "in stock"
+    "status": "not sale"
   },
   {
+    "id": 18,
     "image": "https://i.ibb.co.com/jZL2q6JL/Rectangle-72.png",
     "title": "Nivea Soft Jar Moisturising Cream",
     "ratings": 4.6,
@@ -177,6 +195,6 @@
     "offer_price": 1250,
     "discount_percent": 30,
     "rating_count": 400,
-    "status": "in stock"
+    "status": "sale"
   }
 ]
