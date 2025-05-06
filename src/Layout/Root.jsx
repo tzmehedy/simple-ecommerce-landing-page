@@ -4,8 +4,10 @@ import { Outlet } from 'react-router';
 
 const Root = () => {
     return (
-      <div>
-        <NavBar></NavBar>
+      <div className="">
+        <div className="">
+          <NavBar></NavBar>
+        </div>
         <Outlet></Outlet>
       </div>
     );
