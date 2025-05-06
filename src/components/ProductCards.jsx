@@ -23,10 +23,16 @@ const ProductCards = () => {
           </select>
         </div>
 
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 lg:gap-10 lg:ml-20 mt-3 space-y-3">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 md:gap-10 lg:ml-20 mt-3 space-y-3 md:space-y-0">
           {products?.map((product) => (
             <ProductCard key={product.id} product={product}></ProductCard>
           ))}
+        </div>
+
+        <div className='flex justify-center mt-10'>
+          <button className="border border-[#913BDB] px-3 w-72 py-2 text-[#913BDB] rounded-lg font-bold">
+            Load More
+          </button>
         </div>
       </div>
     );
